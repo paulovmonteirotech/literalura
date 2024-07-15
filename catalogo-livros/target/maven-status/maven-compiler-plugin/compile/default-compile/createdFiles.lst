@@ -1,0 +1,8 @@
+com\examplo\catalogo\livros\controller\LivroController.class
+com\examplo\catalogo\livros\service\LivroService.class
+com\examplo\catalogo\livros\CatalogoLivrosApplication.class
+com\examplo\catalogo\livros\repository\LivroRepository.class
+com\examplo\catalogo\livros\repository\AutorRepository.class
+com\examplo\catalogo\livros\service\GutendexService.class
+com\examplo\catalogo\livros\model\Livro.class
+com\examplo\catalogo\livros\model\Autor.class
