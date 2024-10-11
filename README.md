@@ -35,7 +35,7 @@ Clone o Repositório:
 
 bash
 Copy code
-git clone https://github.com/seuusuario/catalogo-livros.git
+git clone https://github.com/paulovmonteirotech/literalura
 cd catalogo-livros
 Configure as Propriedades do Aplicativo:
 
